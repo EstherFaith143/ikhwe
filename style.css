@@ -4,4 +4,26 @@ ol {
   list-style-position: inside;
 }
 
+body{
+  background-color: #FDF7F4;
+}
+
+p[value="4"]{
+  font-family:cursive;
+}
+
+h1{
+  background-color: #FFD93D;
+}
+
+h2{
+  color: green;
+}
+/* Write your CSS below, don't change the rules above. */
+h2{
+  text-align:left;}
+
+h3[value="5"]{
+  color: red;
+}
 /* Write your CSS below, don't change the rules above. */
